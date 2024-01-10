@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="show_notification">Show notification</string>
+    <string name="no_permissions">You did not give permission</string>
+</resources>

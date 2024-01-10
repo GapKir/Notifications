@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "819635130506",
+    "firebase_url": "https://testing-cc45e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testing-cc45e",
+    "storage_bucket": "testing-cc45e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819635130506:android:daa90dde399b5112299d73",
+        "android_client_info": {
+          "package_name": "com.example.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819635130506-29b1ritehbvn4ki2730td8v76macvh8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IZ7MXmYt9ZyoIDyD1a8d6yB9A2XZGys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819635130506-29b1ritehbvn4ki2730td8v76macvh8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
